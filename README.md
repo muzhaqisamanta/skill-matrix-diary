@@ -13,3 +13,11 @@ Seeds
 Bussiness logic for questions
 Starter template for frontend
 ```
+## DAY-3 
+`07/06 👌`
+```
+Finished frontend part for form app
+Render all types of answers
+
+Todo for tommorow: Expand business logic for answers
+```
