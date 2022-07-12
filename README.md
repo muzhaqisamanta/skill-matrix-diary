@@ -45,7 +45,7 @@ I think we ended this week well 😄
 ## DAY-6
 `12/07`
 ```
-During the weekend we fixed what was left with the form-app and this morning we did the final thing, 
+During the weekend we fixed what was left with the form-app and this morning we did one last thing, 
 we added a dialog after the submit to display a message if the submit was successful or not.
-Planning on expanding the backoffice-app... 
+Also added unit testing for all the frontend components of the form-app.
 ```
