@@ -3,7 +3,8 @@
 ## DAY-1
 `04/06 😊`
 ```
-Today we did the system design and created all the tables (we also added a table called section so the user can have separated questions). 
+Today we did the system design and created all the tables (we also added a table called section so
+the user can have separated questions). 
 After that we did the seeds, so in order to test everything we added dummy data.
 For tomorrow we think on starting the frontednd part.
 ```
@@ -35,8 +36,16 @@ Today we plan on expanding the backoffice app with backend to create boards and 
 `08/06😪`
 ```
 Yesterday we planned on expanding the backoffice-app but we had some issues with the form-app so we focused on solving them. 
-The issues appeared when we changed the database tables with some new columns, we had problems with updating the seeds but we managed to fix it. 
+The issues appeared when we changed the database tables with some new columns, 
+we had problems with updating the seeds but we managed to fix it. 
 Today we also added new validations for the survey invitations and also what happens when the user submits the survey.
 
 I think we ended this week well 😄
+```
+## DAY-6
+`12/07`
+```
+During the weekend we fixed what was left with the form-app and this morning we did the final thing, 
+we added a dialog after the submit to display a message if the submit was successful or not.
+Planning on expanding the backoffice-app... 
 ```
