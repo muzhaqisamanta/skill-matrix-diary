@@ -49,3 +49,9 @@ During the weekend we fixed what was left with the form-app and this morning we 
 we added a dialog after the submit to display a message if the submit was successful or not.
 Also added unit testing for all the frontend components of the form-app.
 ```
+
+## DAY-7
+`13/07`
+```
+Today we finished the Backoffice-app with all the backend funcionalities and frontend part
+```
